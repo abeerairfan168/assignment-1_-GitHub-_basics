@@ -1,4 +1,11 @@
 
+/*
+Program: Sum of First 50 Natural Numbers
+Name: Abeera Irfan
+Registration Number: L1F25BSCS0118
+Assignment: 01 - Getting Started with GitHub
+*/
+
 #include <iostream>
 using namespace std;
 
